@@ -1,0 +1,50 @@
+/* CSS for the rest of the app (not the contact page) */
+
+/* body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+} */
+
+a {
+  color: #fd7e14;
+}
+
+a:hover {
+  color: #ffac07;
+}
+
+/* Home Page home Div */
+
+#home {
+  display: inline-flex;
+}
+
+#welcome {
+  position: relative;
+  float: left;
+  /* left: -80px; */
+}
+
+#mission {
+  position: relative;
+  left: 175px;
+  
+}
+
+
+/* About Page about Div */
+
+#personalInfo {
+  position: relative;
+  left: 110px;
+  
+}
+
+#profilePic {
+  position: relative;
+  float: left;
+}
+
+.flash{
+  color: red;
+}
